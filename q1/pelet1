@@ -1,0 +1,8 @@
+
+program input: a string up to 81 chars long
+
+program output: abbreviates alpha-numeric letters of rising ascii values to shortened form 
+ i.e abcd to a-d, 34567 to 3-7, prints out the shortened string
+
+Please enter a string:
+a-f#LL-N 6-90-3#H-KM-Op-u(?@AB,1124-8)
